@@ -1,0 +1,15 @@
+{
+  "name": "text_translation",
+  "description": "Translate text using Hugging Face Inference API",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@huggingface/inference": "2.6.1",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
