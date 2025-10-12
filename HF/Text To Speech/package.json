@@ -1,0 +1,15 @@
+{
+  "name": "Text to Speech",
+  "description": "Transform text to speech using hugging face model",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@huggingface/inference": "2.6.4",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
