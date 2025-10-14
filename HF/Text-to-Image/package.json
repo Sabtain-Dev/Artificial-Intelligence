@@ -1,0 +1,15 @@
+{
+  "name": "text-to-image",
+  "description": "a project in which you can generate images from text prompts using Hugging Face's Inference API and Vite",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@huggingface/hub": "0.12.0",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
