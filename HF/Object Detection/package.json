@@ -1,0 +1,14 @@
+{
+  "name": "object-detection",
+  "description": "Detect objects in images using Hugging Face Inference API",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
