@@ -1,0 +1,16 @@
+{
+  "name": "ollama-chat-api",
+  "description": "Express API that sends user questions to Ollama locally and returns the response.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview" 
+  },
+  "dependencies": {
+    "vite": "latest",
+    "express": "latest",
+    "ollama": "latest"
+  },
+  "devDependencies": {}
+}
